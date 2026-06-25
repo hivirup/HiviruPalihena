@@ -8,7 +8,8 @@ Electronics | Telecommunications | Machine Learning | Software
 ## ⚡ Featured Projects
 
 ### 🔌 Electronics
-* [Remote Firework Detonation System](https://github.com/LGsekara1/EDP_Firework_Control_Panel) - An automated, microcontroller-based wireless firing system that replaces hazardous manual pyrotechnic ignition with secure remote sequencing to enhance operational safety and efficiency.
+* [Remote Firework Detonation System](https://github.com/LGsekara1/EDP_Firework_Control_Panel)  
+  An automated, microcontroller-based wireless firing system that replaces hazardous manual pyrotechnic ignition with secure remote sequencing to enhance operational         safety and efficiency.
 * [Project Name 2](https://github.com) - A short, one-sentence description of what this electronics project does.
 
 ### 📡 Telecommunications
