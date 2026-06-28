@@ -27,5 +27,5 @@ Electronics | Telecommunications | Machine Learning | Software
 ---
 
 ## 📫 Connect with Me
-* LinkedIn: [your-profile-link](https://linkedin.com)
-* Email: your.email@example.com
+* LinkedIn: [your-profile-link](https://lk.linkedin.com/in/hiviru-palihena)
+* Email: hivirup@gmail.com
