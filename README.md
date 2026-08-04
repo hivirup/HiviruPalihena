@@ -25,6 +25,7 @@ Electronics | Telecommunications | Machine Learning | Software
 
 ### 💻 Software
 * [Real-Time Bottle Detector](https://github.com) - A Python and OpenCV application using adaptive thresholding and aspect-ratio geometry to isolate objects via webcam.
+* [Smart bus ticketing and reservation](https://github.com/Lasini31/smart-bus-ticketing-and-reservation) - A Python and OpenCV application using adaptive thresholding and aspect-ratio geometry to isolate objects via webcam.
 
 ---
 
