@@ -17,7 +17,7 @@ Electronics | Telecommunications | Machine Learning | Software
 
 ### 📡 Telecommunications
 * [Two-way-paging-system-using-SDR](https://github.com/HirunaKarunanayake/Two-way-paging-system-using-SDR) - A robust, multi-node text messaging system built on Software Defined Radio (SDR) that implements QPSK modulation, CRC error detection, and Stop-and-Wait ARQ to ensure reliable two-way communication in noisy environment.
-* [Design of Local Area Network](https://github.com) - A short, one-sentence description of what this telecom project does.
+* [Design-of-Local-Area-Network](https://github.com) - A short, one-sentence description of what this telecom project does.
 * [Design of Routing Protocol](https://github.com) - A short, one-sentence description of what this telecom project does.
 
 ### 🧠 Machine Learning
