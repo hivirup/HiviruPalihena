@@ -16,8 +16,9 @@ Electronics | Telecommunications | Machine Learning | Software
   Design and evaluation of a high-fidelity tri-mode audio power amplifier.
 
 ### 📡 Telecommunications
-* [Project Name 1](https://github.com) - A short, one-sentence description of what this telecom project does.
-* [Project Name 2](https://github.com) - A short, one-sentence description of what this telecom project does.
+* [Two-way-paging-system-using-SDR] (https://github.com/HirunaKarunanayake/Two-way-paging-system-using-SDR) - A robust, multi-node text messaging system built on Software Defined Radio (SDR) that implements QPSK modulation, CRC error detection, and Stop-and-Wait ARQ to ensure reliable two-way communication in noisy environment.
+* [Design of Local Area Network](https://github.com) - A short, one-sentence description of what this telecom project does.
+* [Design of Routing Protocol](https://github.com) - A short, one-sentence description of what this telecom project does.
 
 ### 🧠 Machine Learning
 * [Project Name 1](https://github.com) - A short, one-sentence description of what this ML project does.
