@@ -19,6 +19,7 @@ Electronics | Telecommunications | Machine Learning | Software
 * [Two-way-paging-system-using-SDR](https://github.com/HirunaKarunanayake/Two-way-paging-system-using-SDR) - A robust, multi-node text messaging system built on Software Defined Radio (SDR) that implements QPSK modulation, CRC error detection, and Stop-and-Wait ARQ to ensure reliable two-way communication in noisy environment.
 * [Design-of-a-Local-Area-Network](https://github.com/hivirup/Design-of-a-Local-Area-Network) - A short, one-sentence description of what this telecom project does.
 * [Design-of-Routing-Protocol](https://github.com) - A custom-designed, 3-tier hierarchical routing protocol that outperforms OSPF by integrating a multi-metric cost function, precomputed backup paths, and cryptographic Route Proof Authentication to achieve 98% faster convergence and enhanced security.
+* [Network-Measurements](https://github.com/hivirup/Network-Measurements) - A practical network evaluation project analyzing routing paths, latency, and throughput[cite: 1]. The study utilizes traceroute for physical path mapping and round-trip time (RTT) calculations, iperf3 for bandwidth measurement, and tools like Flent and Waveform to diagnose bufferbloat under varying network loads
 
 ### 🧠 Machine Learning
 * [Project Name 1](https://github.com) - A short, one-sentence description of what this ML project does.
