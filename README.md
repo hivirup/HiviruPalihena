@@ -8,6 +8,8 @@ Electronics | Telecommunications | Machine Learning | Software
 ## ⚡ Featured Projects
 
 ### 🔌 Electronics
+* [Quality Control System for Bottling Factory](https://github.com/RumethRanhinda/Quality-Controller-Elephant-House)  
+  An automated quality control system designed for high-speed bottling factories that utilizes real-time machine vision to detect underfilled beverages and missing date codes. The system processes up to 20,000 bottles per hour using a decoupled architecture, relying on a Raspberry Pi for image analysis and an STM32 microcontroller for real-time sensor tracking and pneumatic defect ejection.
 * [Remote Firework Detonation System](https://github.com/LGsekara1/EDP_Firework_Control_Panel)  
   An automated, microcontroller-based wireless firing system that replaces hazardous manual pyrotechnic ignition with secure remote sequencing to enhance operational         safety and efficiency.
 * [Analog Acoustic Guitar Tuner](https://github.com/Upani-Gunathunga/Oscivox-Analog-Acoustic-Guitar-Tuner-EN2091-Analog-Project)  
